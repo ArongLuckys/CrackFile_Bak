@@ -1,0 +1,7 @@
+E:\Arong_Code_Project\Arong_2022\Custom_updata\CrackFile_Bak\bin\Debug\CrackFile_Bak.exe.config
+E:\Arong_Code_Project\Arong_2022\Custom_updata\CrackFile_Bak\bin\Debug\CrackFile_Bak.exe
+E:\Arong_Code_Project\Arong_2022\Custom_updata\CrackFile_Bak\bin\Debug\CrackFile_Bak.pdb
+E:\Arong_Code_Project\Arong_2022\Custom_updata\CrackFile_Bak\obj\Debug\CrackFile_Bak.csproj.AssemblyReference.cache
+E:\Arong_Code_Project\Arong_2022\Custom_updata\CrackFile_Bak\obj\Debug\CrackFile_Bak.csproj.CoreCompileInputs.cache
+E:\Arong_Code_Project\Arong_2022\Custom_updata\CrackFile_Bak\obj\Debug\CrackFile_Bak.exe
+E:\Arong_Code_Project\Arong_2022\Custom_updata\CrackFile_Bak\obj\Debug\CrackFile_Bak.pdb
